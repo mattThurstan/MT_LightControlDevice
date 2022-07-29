@@ -1,0 +1,4 @@
+MT_LightControlDevice	KEYWORD1	
+Init		KEYWORD2	
+ResetDevice  KEYWORD2	
+DoUpdate	KEYWORD2
